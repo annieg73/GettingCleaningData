@@ -66,69 +66,69 @@ Variable Name  | Variable Type - Class
 ------------ | -------------
 Subject | Subject of the Study - Integer
 Activity | Type of Activity performed - Factor with 6 Levels ("LAYING","SITTING","STANDING","WALKING","WALKING_DOWNSTAIRS","WALKING_UPSTAIRS")
-TimeBodyAccMeanX | Time Body Acceleration Signal Mean for X direction -  Numeric
-TimeBodyAccMeanY | Time Body Acceleration Signal Mean for Y direction -  Numeric
-TimeBodyAccMeanZ | Time Body Acceleration Signal Mean for Z direction -  Numeric
-TimeGravityAccMeanX | Time Gravity Acceleration Signal Mean for X direction -  Numeric
-TimeGravityAccMeanY | Time Gravity Acceleration Signal Mean for Y direction -  Numeric
-TimeGravityAccMeanZ | Time Gravity Acceleration Signal Mean for Z direction -  Numeric
-TimeBodyAccJerkMeanX | Time Body Acceleration Jerk Signal Mean for X direction -  Numeric
-TimeBodyAccJerkMeanY | Time Body Acceleration Jerk Signal Mean for Y direction -  Numeric
-TimeBodyAccJerkMeanZ | Time Body Acceleration Jerk Signal Mean for Z direction -  Numeric
-TimeBodyGyroMeanX | Time Body Acceleration Gyroscope Signal Mean for X direction -  Numeric
-TimeBodyGyroMeanY | Time Body Acceleration Gyroscope Signal Mean for Y direction -  Numeric
-TimeBodyGyroMeanZ | Time Body Acceleration Gyroscope Signal Mean for Z direction -  Numeric
-TimeBodyGyroJerkMeanX | Time Body Acceleration Gyroscope Jerk Signal Mean for X direction -  Numeric
-TimeBodyGyroJerkMeanY | Time Body Acceleration Gyroscope Jerk Signal Mean for Y direction -  Numeric
-TimeBodyGyroJerkMeanZ | Time Body Acceleration Gyroscope Jerk Signal Mean for Z direction -  Numeric
-TimeBodyAccMagMean | Time Body Acceleration Magnitudes Signal Mean -  Numeric
-TimeGravityAccMagMean | Time Gravity Acceleration Magnitudes Signal Mean -  Numeric
-TimeBodyAccJerkMagMean | Time Gravity Acceleration Jerk Magnitudes Signal Mean -  Numeric
-TimeBodyGyroMagMean | Time Body Gyroscope Magnitude Signal Mean for X direction -  Numeric
-TimeBodyGyroJerkMagMean | Time Body Gyroscope Jerk Magnitude Signal Mean for X direction -  Numeric
-FreqBodyAccMeanX | Frequency Body Acceleration Signal Mean for X direction -  Numeric
-FreqBodyAccMeanY | Frequency Body Acceleration Signal Mean forY direction -  Numeric
-FreqBodyAccMeanZ | Frequency Body Acceleration Signal Mean for Z direction -  Numeric
-FreqBodyAccJerkMeanX | Frequency Body Acceleration Jerk Signal Mean for X direction -  Numeric
-FreqBodyAccJerkMeanY | Frequency Body Acceleration Jerk Signal Mean for Y direction -  Numeric
-FreqBodyAccJerkMeanZ | Frequency Body Acceleration Jerk Signal Mean for Z direction -  Numeric
-FreqBodyGyroMeanX | Frequency Body Gyroscope Signal Mean for X direction -  Numeric
-FreqBodyGyroMeanY | Frequency Body Gyroscope Signal Mean for Y direction -  Numeric
-FreqBodyGyroMeanZ | Frequency Body Gyroscope Signal Mean for Z direction -  Numeric
-FreqBodyAccMagMean | Frequency Body Acceleration Magnitude Signal Mean -  Numeric
-FreqBodyAccJerkMagMean | Frequency Body Acceleration Jerk Magnitude Signal Mean -  Numeric
-FreqBodyGyroMagMean | Frequency Body Gyroscope Magnitude Signal Mean -  Numeric
-FreqBodyGyroJerkMagMean | Frequency Body Gyroscope Jerk Magnitude Signal Mean -  Numeric
-TimeBodyAccStdX | Time Body Acceleration Signal Standard Deviation for the X direction -  Numeric
-TimeBodyAccStdY | Time Body Acceleration Signal Standard Deviation for the Y direction -  Numeric
-TimeBodyAccStdZ | Time Body Acceleration Signal Standard Deviation for the Z direction -  Numeric
-TimeGravityAccStdX | Time  Gravity Acceleration Signal Standard Deviation for the X direction -  Numeric
-TimeGravityAccStdY | Time  Gravity Acceleration Signal Standard Deviation for the Y direction -  Numeric
-TimeGravityAccStdZ | Time  Gravity Acceleration Signal Standard Deviation for the Z direction -  Numeric
-TimeBodyAccJerkStdX | Time Body Acceleration Jerk Signal Standard Deviation for the X direction -  Numeric
-TimeBodyAccJerkStdY | Time Body Acceleration Jerk Signal Standard Deviation for the Y direction -  Numeric
-TimeBodyAccJerkStdZ | Time Body Acceleration Jerk Signal Standard Deviation for the Z direction -  Numeric
-TimeBodyGyroStdX | Time Body Gyroscope Signal Standard Deviation for the X direction -  Numeric
-TimeBodyGyroStdY | Time Body Gyroscope Signal Standard Deviation for the Y direction -  Numeric
-TimeBodyGyroStdZ | Time Body Gyroscope Signal Standard Deviation for the Z direction -  Numeric
-TimeBodyGyroJerkStdX | Time Body Gyroscope Jerk Signal Standard Deviation for the X direction -  Numeric
-TimeBodyGyroJerkStdY | Time Body Gyroscope Jerk Signal Standard Deviation for the Y direction -  Numeric
-TimeBodyGyroJerkStdZ | Time Body Gyroscope Jerk Signal Standard Deviation for the Z direction -  Numeric
-TimeBodyAccMagStd | Time Body Acceleration Magnitude Signal Standard Deviation -  Numeric
-TimeGravityAccMagStd | Time  Gravity Acceleration Magnitude Signal Standard Deviation -  Numeric
-TimeBodyAccJerkMagStd | Time Body Acceleration Jerk Magnitude Signal Standard Deviation -  Numeric
-TimeBodyGyroMagStd | Time Body Gyroscope Magnitude Signal Standard Deviation -  Numeric
-TimeBodyGyroJerkMagStd | Time Body Gyroscope Jerk Magnitude Signal Standard Deviation -  Numeric
-FreqBodyAccStdX | Frequency Body Acceleration Signal Standard Deviation for the X direction -  Numeric
-FreqBodyAccStdY | Frequency Body Acceleration Signal Standard Deviation for the Y direction -  Numeric
-FreqBodyAccStdZ | Frequency Body Acceleration Signal Standard Deviation for the Z direction -  Numeric
-FreqBodyAccJerkStdX | Frequency Body Acceleration Jerk Signal Standard Deviation for the X direction -  Numeric
-FreqBodyAccJerkStdY | Frequency Body Acceleration Jerk Signal Standard Deviation for the Y direction -  Numeric
-FreqBodyAccJerkStdZ | Frequency Body Acceleration Jerk Signal Standard Deviation for the Z direction-  Numeric
-FreqBodyGyroStdX | Frequency Body Gyroscope Signal Standard Deviation for the X direction -  Numeric
-FreqBodyGyroStdY | Frequency Body Gyroscope Signal Standard Deviation for the Y direction -  Numeric
-FreqBodyGyroStdZ | Frequency Body Gyroscope Signal Standard Deviation for the Z direction -  Numeric
-FreqBodyAccMagStd | Frequency Body Acceleration Magnitude Signal Standard Deviation -  Numeric
-FreqBodyAccJerkMagStd | Frequency Body Acceleration Jerk Magnitude Signal Standard Deviation -  Numeric
-FreqBodyGyroMagStd | Frequency Body Gyroscope Magnitude Signal Standard Deviation -  Numeric
-FreqBodyGyroJerkMagStd | Frequency Body Gyroscope Jerk Magnitude Signal Standard Deviation -  Numeric
+TimeBodyAccMeanX | Mean of Time Body Acceleration Signal Mean for X direction -  Numeric
+TimeBodyAccMeanY | Mean of Time Body Acceleration Signal Mean for Y direction -  Numeric
+TimeBodyAccMeanZ | Mean of Time Body Acceleration Signal Mean for Z direction -  Numeric
+TimeGravityAccMeanX | Mean of Time Gravity Acceleration Signal Mean for X direction -  Numeric
+TimeGravityAccMeanY | Mean of Time Gravity Acceleration Signal Mean for Y direction -  Numeric
+TimeGravityAccMeanZ | Mean of Time Gravity Acceleration Signal Mean for Z direction -  Numeric
+TimeBodyAccJerkMeanX | Mean of Time Body Acceleration Jerk Signal Mean for X direction -  Numeric
+TimeBodyAccJerkMeanY | Mean of Time Body Acceleration Jerk Signal Mean for Y direction -  Numeric
+TimeBodyAccJerkMeanZ | Mean of Time Body Acceleration Jerk Signal Mean for Z direction -  Numeric
+TimeBodyGyroMeanX | Mean of Time Body Acceleration Gyroscope Signal Mean for X direction -  Numeric
+TimeBodyGyroMeanY | Mean of Time Body Acceleration Gyroscope Signal Mean for Y direction -  Numeric
+TimeBodyGyroMeanZ | Mean of Time Body Acceleration Gyroscope Signal Mean for Z direction -  Numeric
+TimeBodyGyroJerkMeanX | Mean of Time Body Acceleration Gyroscope Jerk Signal Mean for X direction -  Numeric
+TimeBodyGyroJerkMeanY | Mean of Time Body Acceleration Gyroscope Jerk Signal Mean for Y direction -  Numeric
+TimeBodyGyroJerkMeanZ | Mean of Time Body Acceleration Gyroscope Jerk Signal Mean for Z direction -  Numeric
+TimeBodyAccMagMean | Mean of Time Body Acceleration Magnitudes Signal Mean -  Numeric
+TimeGravityAccMagMean | Mean of Time Gravity Acceleration Magnitudes Signal Mean -  Numeric
+TimeBodyAccJerkMagMean | Mean of Time Gravity Acceleration Jerk Magnitudes Signal Mean -  Numeric
+TimeBodyGyroMagMean | Mean of Time Body Gyroscope Magnitude Signal Mean for X direction -  Numeric
+TimeBodyGyroJerkMagMean | Mean of Time Body Gyroscope Jerk Magnitude Signal Mean for X direction -  Numeric
+FreqBodyAccMeanX | Mean of Frequency Body Acceleration Signal Mean for X direction -  Numeric
+FreqBodyAccMeanY | Mean of Frequency Body Acceleration Signal Mean forY direction -  Numeric
+FreqBodyAccMeanZ | Mean of Frequency Body Acceleration Signal Mean for Z direction -  Numeric
+FreqBodyAccJerkMeanX | Mean of Frequency Body Acceleration Jerk Signal Mean for X direction -  Numeric
+FreqBodyAccJerkMeanY | Mean of Frequency Body Acceleration Jerk Signal Mean for Y direction -  Numeric
+FreqBodyAccJerkMeanZ | Mean of Frequency Body Acceleration Jerk Signal Mean for Z direction -  Numeric
+FreqBodyGyroMeanX | Mean of Frequency Body Gyroscope Signal Mean for X direction -  Numeric
+FreqBodyGyroMeanY | Mean of Frequency Body Gyroscope Signal Mean for Y direction -  Numeric
+FreqBodyGyroMeanZ | Mean of Frequency Body Gyroscope Signal Mean for Z direction -  Numeric
+FreqBodyAccMagMean | Mean of Frequency Body Acceleration Magnitude Signal Mean -  Numeric
+FreqBodyAccJerkMagMean | Mean of Frequency Body Acceleration Jerk Magnitude Signal Mean -  Numeric
+FreqBodyGyroMagMean | Mean of Frequency Body Gyroscope Magnitude Signal Mean -  Numeric
+FreqBodyGyroJerkMagMean | Mean of Frequency Body Gyroscope Jerk Magnitude Signal Mean -  Numeric
+TimeBodyAccStdX | Mean of Time Body Acceleration Signal Standard Deviation for the X direction -  Numeric
+TimeBodyAccStdY | Mean of Time Body Acceleration Signal Standard Deviation for the Y direction -  Numeric
+TimeBodyAccStdZ | Mean of Time Body Acceleration Signal Standard Deviation for the Z direction -  Numeric
+TimeGravityAccStdX | Mean of Time  Gravity Acceleration Signal Standard Deviation for the X direction -  Numeric
+TimeGravityAccStdY | Mean of Time  Gravity Acceleration Signal Standard Deviation for the Y direction -  Numeric
+TimeGravityAccStdZ | Mean of Time  Gravity Acceleration Signal Standard Deviation for the Z direction -  Numeric
+TimeBodyAccJerkStdX | Mean of Time Body Acceleration Jerk Signal Standard Deviation for the X direction -  Numeric
+TimeBodyAccJerkStdY | Mean of Time Body Acceleration Jerk Signal Standard Deviation for the Y direction -  Numeric
+TimeBodyAccJerkStdZ | Mean of Time Body Acceleration Jerk Signal Standard Deviation for the Z direction -  Numeric
+TimeBodyGyroStdX | Mean of Time Body Gyroscope Signal Standard Deviation for the X direction -  Numeric
+TimeBodyGyroStdY | Mean of Time Body Gyroscope Signal Standard Deviation for the Y direction -  Numeric
+TimeBodyGyroStdZ | Mean of Time Body Gyroscope Signal Standard Deviation for the Z direction -  Numeric
+TimeBodyGyroJerkStdX | Mean of Time Body Gyroscope Jerk Signal Standard Deviation for the X direction -  Numeric
+TimeBodyGyroJerkStdY | Mean of Time Body Gyroscope Jerk Signal Standard Deviation for the Y direction -  Numeric
+TimeBodyGyroJerkStdZ | Mean of Time Body Gyroscope Jerk Signal Standard Deviation for the Z direction -  Numeric
+TimeBodyAccMagStd | Mean of Time Body Acceleration Magnitude Signal Standard Deviation -  Numeric
+TimeGravityAccMagStd | Mean of Time Gravity Acceleration Magnitude Signal Standard Deviation -  Numeric
+TimeBodyAccJerkMagStd | Mean of Time Body Acceleration Jerk Magnitude Signal Standard Deviation -  Numeric
+TimeBodyGyroMagStd | Mean of Time Body Gyroscope Magnitude Signal Standard Deviation -  Numeric
+TimeBodyGyroJerkMagStd | Mean of Time Body Gyroscope Jerk Magnitude Signal Standard Deviation -  Numeric
+FreqBodyAccStdX | Mean of Frequency Body Acceleration Signal Standard Deviation for the X direction -  Numeric
+FreqBodyAccStdY | Mean of Frequency Body Acceleration Signal Standard Deviation for the Y direction -  Numeric
+FreqBodyAccStdZ | Mean of Frequency Body Acceleration Signal Standard Deviation for the Z direction -  Numeric
+FreqBodyAccJerkStdX | Mean of Frequency Body Acceleration Jerk Signal Standard Deviation for the X direction -  Numeric
+FreqBodyAccJerkStdY | Mean of Frequency Body Acceleration Jerk Signal Standard Deviation for the Y direction -  Numeric
+FreqBodyAccJerkStdZ | Mean of Frequency Body Acceleration Jerk Signal Standard Deviation for the Z direction-  Numeric
+FreqBodyGyroStdX | Mean of Frequency Body Gyroscope Signal Standard Deviation for the X direction -  Numeric
+FreqBodyGyroStdY | Mean of Frequency Body Gyroscope Signal Standard Deviation for the Y direction -  Numeric
+FreqBodyGyroStdZ | Mean of Frequency Body Gyroscope Signal Standard Deviation for the Z direction -  Numeric
+FreqBodyAccMagStd | Mean of Frequency Body Acceleration Magnitude Signal Standard Deviation -  Numeric
+FreqBodyAccJerkMagStd | Mean of Frequency Body Acceleration Jerk Magnitude Signal Standard Deviation -  Numeric
+FreqBodyGyroMagStd | Mean of Frequency Body Gyroscope Magnitude Signal Standard Deviation -  Numeric
+FreqBodyGyroJerkMagStd | Mean of Frequency Body Gyroscope Jerk Magnitude Signal Standard Deviation -  Numeric

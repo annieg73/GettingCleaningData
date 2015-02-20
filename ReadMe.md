@@ -49,6 +49,7 @@ The datasets used for the analysis are:
 * 'test/X_test.txt': Test set (2947 obs. of 561 variables)
 * 'test/y_test.txt': Test labels (2947 obs. of 1 variable)
 
+*The inertia datasets haven't been used for this analysis.*
 
 ### Steps 
 
